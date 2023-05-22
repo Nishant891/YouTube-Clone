@@ -20,5 +20,8 @@ It is sub-divided into right/lrft and middle sections and is a flexbox.
 Contains css stylling for video-previews/ channel details and profile photo. 
 It uses css grid that makes it responsive according to the screen size. 
 
-I have also used @media-query to make the website responsive according to the screen size.
+### style.css
+Contains styles for the sidebar.
+
+### I have also used @media-query to make the website responsive according to the screen size.
 
