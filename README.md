@@ -3,7 +3,7 @@
 <img width="948" alt="Screenshot 2023-04-09 103937" src="https://github.com/Nishant891/YouTube-clone/assets/109356848/cc4a6508-9ff7-42ea-bb9b-5f15e4ae20f9">
 
 ## Introduction
-### YouTube-clone as it sounds like is a clone of youtube.com. It is not interactive as I built this to practice css 
+### YouTube-clone as it sounds like is a clone of youtube.com. It is fully responsive on all devices and screen sizes. 
 
 ### 1. Grid
 ### 2. Flexbox 
